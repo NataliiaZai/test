@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(249, 247, 204);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h2 {
+    text-align: center;
+  }
+h3 {
+    text-decoration: underline;
+ }  
+
+  p,
+li {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+.mainImg{
+    width: 300px;
+}
+.cv{
+    width: 900px;
+    display: flex;
+}
+.left{
+    width: 300px;
+    background-color: aquamarine;
+}
+.right{
+    width: 600px;
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
